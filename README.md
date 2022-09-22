@@ -2,19 +2,26 @@
 
 ¡Les damos la bienvenida!
 
-## Instructora
+## Instructora 
+Ernestina Godoy Lozano (@Tina_Godoy)
 
 ## Temario
+ - Introducción a ggplot2
+ - Elementos de un gráfico en ggplot2
+ - Sintáxis de ggplot2
+    qplot()
+    ggplot()
 
 
 ## Conocimientos previos requeridos:
-
+- Saber leer tablas con read.delim()
 
 ## Requerimientos de software
 
 - Tener instalado R >= 4.0
 - Tener instalado RStudio >= 1.4
 - Instalar el paquete ggplot2 usando install.packages(“ggplot2”)
+- Instalar el paquete reshape2 usando install.packages(“reshape2”)
 
 
 ## Instalación
